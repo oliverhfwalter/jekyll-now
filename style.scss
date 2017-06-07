@@ -17,6 +17,14 @@ html {
   font-size: 100%;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid $white;
+}
+
 body {
 	background-image: url("http://download-wallpaper.net/images/cool-images/cool-images-2.jpg");
 	background-repeat: no-repeat;
