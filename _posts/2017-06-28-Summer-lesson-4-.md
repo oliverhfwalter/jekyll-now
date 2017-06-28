@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by listening to alex tell me what the task was and how to make a code that could effectively convert to an accurate amount of decimal places. </td>
+    <td>Mainly by listening to alex tell me what the task was and how to make a code that could effectively convert to an accurate amount of decimal places. Going from imperial to metric </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
