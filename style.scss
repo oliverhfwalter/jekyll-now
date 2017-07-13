@@ -34,7 +34,7 @@ body {
 	background-position: right top;
 	background-attachehment: fixed:	
   font: 18px/1.4 $helvetica;
-	color: #FFFFFF;
+	color: $white ;
 }
 
 .container {
@@ -46,7 +46,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #FFFFFF;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
