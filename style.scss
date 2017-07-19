@@ -32,7 +32,7 @@ body {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/31/80/d2/3180d2c319d8400c096696b687f9a5b5.jpg") ;
 	background-attachment: fixed;	
   font: 18px/1.4 $helvetica;
-	color: #0066ff ;
+	color: $white ;
 }
 
 .container {
@@ -44,7 +44,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: #0066ff;
   font-weight: bold;
 
   line-height: 1.7;
